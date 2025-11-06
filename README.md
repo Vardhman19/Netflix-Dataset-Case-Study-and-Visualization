@@ -8,9 +8,13 @@ This project focuses on analyzing and visualizing the Netflix dataset using Micr
 The case study answers key analytical questions, including:
 
 Which are the best movies and TV shows overall in the last 50 years?
+
 How many movies were released across different years?
+
 How have IMDb scores and votes trended over time?
+
 How has average movie runtime evolved over the decades?
+
 How does age certification influence audience ratings?
 
 🧮 Dataset Details
